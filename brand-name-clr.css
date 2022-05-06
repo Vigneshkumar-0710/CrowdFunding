@@ -1,0 +1,7 @@
+.html {
+  scroll-behavior: smooth;
+}
+h6.brand-name-color,
+h3.brand-name-color {
+  color: rgb(7, 7, 7);
+}
